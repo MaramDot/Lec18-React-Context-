@@ -1,0 +1,13 @@
+body{
+font-family: Arial;
+}
+
+.login-card{
+width:380px;
+border-radius:15px;
+}
+
+.user-card{
+max-width:350px;
+border-radius:15px;
+}
